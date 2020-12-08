@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"python.dataScience.jupyterServerURI": "http://192.168.0.102:8888?token="
+		"python.dataScience.jupyterServerURI": "http://192.168.0.102:8888?token=",
+		"jupyter.jupyterServerType": "remote"
 	}
 }
